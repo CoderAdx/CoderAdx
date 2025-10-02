@@ -1,4 +1,6 @@
 
+<br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f46454&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Adrya;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -17,7 +19,7 @@
 <div align="center"> 
 
 
-<a href="mailto:cmp.1a.adryagiulyy@gmail.com">
+<a href="mailto:adryagiulyy@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 
@@ -37,24 +39,12 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
-
-<img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left" width="80" height="80"  src="https://github.com/user-attachments/assets/5ff6e1fb-f4c0-4405-8b99-5b0d64ffa5a9" />
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,linux)](https://skillicons.dev)
 
 </div>
 
 <br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
 
 
 <h2 align="left"> Studying in this moment: </h2>
@@ -62,13 +52,8 @@
 
 <div align="left"> 
 
-<img align="left"  height="80" width="80"  src="https://github.com/user-attachments/assets/7122120f-90de-40f8-ab4a-95336ef55543">
+[![My Skills](https://skillicons.dev/icons?i=java,git,arch,mysql)](https://skillicons.dev)
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
-
-<img align="left" width="80" height="80"  src="https://github.com/user-attachments/assets/5ff6e1fb-f4c0-4405-8b99-5b0d64ffa5a9" />
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/49c70719-87a7-473d-a0fb-f681ffa28f3e">
 
 </div>
 
@@ -77,10 +62,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
-<img width="1700" height="200" alt="Image" src="https://github.com/user-attachments/assets/d8eabae3-233e-4406-b8aa-22bbafd4a715" />
 
 
 
