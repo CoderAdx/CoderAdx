@@ -1,9 +1,8 @@
-![Image](https://github.com/user-attachments/assets/fcbf9217-6b8a-4599-afa4-83f74589e7e9)
 
-<br>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f46454&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Adrya;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+<h1>✨Olá! Me chamo Adrya Giuly, tenho 20 anos e curso Ciência da Computação.</h1>
+
+<h2>💻 Estou me desenvolvendo como Fullstack, com foco principal em Back-end, sempre buscando aprender novas tecnologias e criar soluções eficientes.</h2>
 
 <br>
 <br>
