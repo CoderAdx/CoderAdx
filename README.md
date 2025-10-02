@@ -1,8 +1,4 @@
-<img width="1700" height="400" alt="Image" src="https://github.com/user-attachments/assets/89e9b95b-652d-45b4-a224-ff601d0d557e" />
-<br>
-<br> 
-<br>
-<br>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f46454&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Adrya;I'm+20+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
